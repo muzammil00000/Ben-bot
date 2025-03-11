@@ -1,0 +1,116 @@
+
+{
+    "bot-name": "BEN-BOT-V1",
+    "description": "Ben bot simple by WhatsApp",
+    "logo": "https://files.catbox.moe/4i7dp7.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://webpair-ben-nothing-hem2.onrender.com/",
+    "owner-verification":"kingamirnafas@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put yourr SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://webpair-ben-nothing.onrender.com",
+        "value":"",
+        "required": true
+        
+      },
+      "PREFIX": {
+        "description": "Bot command prefix, (e.g, . , ! @ etc",
+        "value":".",
+        "required": true
+        
+      },
+      "AUTO_READ_STATUS": {
+        "description": "Bot will all status, To Enable put true and to disable put false (e.g, true)",
+        "value":"true",
+        "required": false
+        
+      },
+      "MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "value":"public",
+        "required": true
+        
+      },
+      "OWNER_NUMBER": {
+        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx,93730275765)",
+        "value":"923072380xxxx",
+        "required": true
+        
+      },
+      "AUTO_REPLY": {
+        "description": "Bot will reply to the msgs like gm, gn, love you, hate you, hi, etc... To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      },
+      "ANTIBOT": {
+        "description": "Set true to Automatically deletes bot commands sent by users and warns them.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBOT_REMOVE": {
+        "description": "Set true to Deletes bot commands and instantly removes the user from the group.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBOT_WARN": {
+        "description": "Set true to Deletes bot commands, warns the user up to 3 times, and removes them after the 3rd warning.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTILINK": {
+        "description": "Set true to Deletes messages containing links and warns the user.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTILINKREMOVE": {
+        "description": "Set true to Deletes link messages and instantly removes the user.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTILINKWARN": {
+        "description": "Set true to Warns the user up to 3 times for sending links before removal.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBAD": {
+        "description": "Set true to Deletes messages containing bad words and warns the user.",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBAD_REMOVE": {
+        "description": "Set true to Deletes messages containing bad words warns the useramd delete user",
+        "value": "false",
+        "required": false
+      
+      },
+      "ANTIBAD_WARN": {
+        "description": "Set true to Deletes messages containing bad words warns the user. 3 warnings after removed user",
+        "value": "false",
+        "required": false
+      
+      },
+      "AUTO_DL": {
+        "description": "Set true to Automatically downloads media (Facebook, titkok, Instagram, YouTube) from specific link.",
+        "value": "false",
+        "required": false
+      
+      },
+    
+      "AUTO_REACT": {
+        "description": "Bot will react to the msgs, To Enable put true and to disable put false (e.g, true)",
+        "value":"false",
+        "required": false
+        
+      }
+    }
+  
+  }
