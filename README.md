@@ -7,21 +7,21 @@
 
 
 <div align="center">
-    <a href="https://github.com/mayelmayel11/Ben-botV2">
+    <a href="https://github.com/NOTHING-MD420/Ben-bot">
         <img title="Author" src="https://img.shields.io/badge/𝗕𝗘𝗡%20𝑩𝑶𝑻-black?style=for-the-badge&logo=github">
     </a>
     <br>
-    <a href="https://github.com/mayelmayel11?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/mayelmayel11?label=Followers&style=social">
+    <a href="https://github.com/NOTHING-MD420?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/NOTHING-MD420?label=Followers&style=social">
     </a>
-    <a href="https://github.com/mayelmayel11/Ben-bot/stargazers/">
-        <img title="Stars" src="https://img.shields.io/github/stars/mayelmayel11/Ben-bot?style=social">
+    <a href="https://github.com/NOTHING-MD420/Ben-bot/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/NOTHING-MD420/Ben-bot?style=social">
     </a>
-    <a href="https://github.com/mayelmayel11/Ben-bot/network/members">
-        <img title="Fork" src="https://img.shields.io/github/forks/mayelmayel11/Ben-bot?style=social">
+    <a href="https://github.com/NOTHING-MD420/Ben-bot/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/NOTHING-MD420/Ben-bot?style=social">
     </a>
-    <a href="https://github.com/mayelmayel11/Ben-bot/watchers">
-        <img title="Watching" src="https://img.shields.io/github/watchers/mayelmayel11/Ben-bot?label=Watching&style=social">
+    <a href="https://github.com/NOTHING-MD420/Ben-bot/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/NOTHING-MD420/Ben-bot?label=Watching&style=social">
     </a>
 </div>
 
@@ -58,7 +58,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1️⃣</h3>
-    <a href="https://webpair-ben-nothing-hem2.onrender.com">
+    <a href="https://webpairben-offcial.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -71,7 +71,7 @@
 
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2️⃣</h3>
-    <a href="https://webpair-ben-nothing-hem2.onrender.com">
+    <a href="https://webpairben-offcial.onrender.com">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-black?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -86,13 +86,13 @@
 ### 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙊𝙋𝙏𝙄𝙊𝙉𝙎
 </div>
 <div align="center">
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/NOTHING-MD420/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/NOTHING-MD420/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/mayelmayel11/Ben-bot">
+    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/NOTHING-MD420/Ben-bot">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
     </a>
 </div>
@@ -138,7 +138,7 @@
 
 
 #### ```NOTHING PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/mayelmayel11/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/NOTHING-MD420/count.svg)
 
 ### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
 - 🪄 Pashto = ps

@@ -3,7 +3,6 @@ const fs = require("fs");
 const path = require("path");
 
 //ALL GLOBAL
-global.SESSION_ID = process.env.SESSION_ID || "";
 global.ownername = process.env.OWNER_NAME || "NOTHING";
 global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : [] || "93744215959";
 global.packname = process.env.BOT_NAME || "BEN-BOT-V1";
@@ -11,8 +10,8 @@ global.author = process.env.OWNER_NAME || "NOTHING";
 global.channelChatId = process.env.CHANNEL_JID || "120363333589976873@newsletter";
 global.logo = process.env.LOGO_URL || "https://files.catbox.moe/vahb53.jpg";
 global.bench = process.env.BEN_CHANNEL || "https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32";
-global.benrepo = process.env.BEN_REPO || "https://github.com/mayelmayel11/Ben-bot";
-global.benrepodl = process.env.BEN_REPODL || "https://github.com/mayelmayel11/Ben-bot/archive/refs/heads/main.zip";
+global.benrepo = process.env.BEN_REPO || "https://github.com/NOTHING-MD420/Ben-bot";
+global.benrepodl = process.env.BEN_REPODL || "https://github.com/NOTHING-MD420/Ben-bot/archive/refs/heads/main.zip";
 
 //AUTO FUNCTIONER DONT CHANGE IT
 global.antidelete = process.env.ANTIDELETE === "true";
