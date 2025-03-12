@@ -27,24 +27,24 @@ global.autodl = process.env.AUTO_DL === "true";
 global.antibot = process.env.ANTIBOT === "true";
 global.antibotwarn = process.env.ANTIBOT_WARN === "true";
 global.antibotremove = process.env.ANTIBOT_REMOVE === "true";
-global.autoTyping = false;
-global.autoRecord = false; 
-global.autoViewStatus = false;
+global.autoreadmessages = process.env.AUTO_READ_MESSAGES === "true";
+global.autoRecord = process.env.AUTO_RECORD === "true";
+global.available = process.env.AVAILABLE === "true";
+global.unavailable = process.env.UNAVAILABLE === "true";
+global.autoTyping = process.env.AUTO_TYPING === "true";
+global.autoreact = process.env.AUTO_REACT === "true";
+global.autoViewStatus = process.env.AUTO_VIEW_STATUS === "true";
+global.autobio = process.env.AUTO_BIO === "true";
+global.chatbot = process.env.CHATBOT === "true";
+global.prefix = process.env.PREFIX || ".";
+global.sudo_user = process.env.SUDO_USERS ? process.env.SUDO_USERS.split(",") : ["+93744215959", "93730285765"];
+global.command = process.env.ALL_CMD || "1000+";
+global.version = process.env.VERSION || "V1";
 global.autoStatusDownload = false;
 global.AUTOSTATUS_REACT = false;
 global.autoLikeEmoji = "💚";
-global.autobio = false;
 global.welcome = false;
-global.unavailable = false;
-global.available = false;
-global.autoreadmessages = false;
-global.chatbot = false; 
-global.autoreact = false;
-global.prefix = '.';
-global.sudo_user = "+93744215959";
 global.LEVELUP = false;
-global.commands = "1000+";
-global.version = "V1";
 
 
 //AUTO MESSAGE RESPONSE
