@@ -117,8 +117,18 @@
       "value": "false",
       "required": false
     },
-    "AUTO_BIO": {
-      "description": "Set to true if you want the bot to auto bio allways To Enable put true and to disable put false (e.g, true)",
+    "AUTO_REPLY": {
+      "description": "Set to true if you want the bot to auto Reply for all message To Enable put true and to disable put false (e.g, true)",
+      "value": "false",
+      "required": false
+    },
+    "AUTO_REPLYPR": {
+      "description": "Set to true if you want the bot to auto Reply for private message To Enable put true and to disable put false (e.g, true)",
+      "value": "false",
+      "required": false
+    },
+    "AUTO_REPLYGC": {
+      "description": "Set to true if you want the bot to auto Reply for group message To Enable put true and to disable put false (e.g, true)",
       "value": "false",
       "required": false
     },

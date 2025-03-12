@@ -40,6 +40,9 @@
 - **ANTIBAD 🚀**
 - **ANTIBADREMOVE 🚀**
 - **ANTIBADWARN 🚀**
+- **AUTOREPLY 🚀**
+- **AUTOREPLYPR 🚀**
+- **AUTOREPLYGC 🚀**
 - **VV 🚀**
 - **UPDATE 🚀**
 - © ***POWERD BY NOTHING***
