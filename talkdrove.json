@@ -84,6 +84,12 @@
         "description": "Set true to Deletes messages containing bad words warns the user. 3 warnings after removed user To Enable put true and to disable put false (e.g, true)",
         "value": "false",
         "required": false
+        
+      },
+      "ANTI_FORWARD": {
+        "description": "Set true to anyone message you bot auto forward to inbox can you see and active another method in owner menu after depoly To Enable put true and to disable put false (e.g, true)",
+        "value": "false",
+        "required": false
       
       },
       "AUTO_DL": {

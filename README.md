@@ -43,6 +43,8 @@
 - **AUTOREPLY 🚀**
 - **AUTOREPLYPR 🚀**
 - **AUTOREPLYGC 🚀**
+- **ANTIFORWARD 🚀**
+- **ANTIFORWARDPR 🚀**
 - **VV 🚀**
 - **UPDATE 🚀**
 - © ***POWERD BY NOTHING***
