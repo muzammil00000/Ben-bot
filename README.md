@@ -32,6 +32,7 @@
 
 --------------------------
 - **ANTILINK 🚀**
+- **AUTOUPDATE 🚀**
 - **ANTILINKREMOVE 🚀**
 - **ANTILINKWARN 🚀**
 - **ANTIBOT 🚀**

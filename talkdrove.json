@@ -96,6 +96,12 @@
         "description": "Set true to Automatically downloads media (Facebook, titkok, Instagram, YouTube) from specific link To Enable put true and to disable put false (e.g, true)",
         "value": "false",
         "required": false
+        
+      },
+      "AUTO_UPDATE": {
+        "description": "Set true to Automatically downloads New Bot Update To Enable put true and to disable put false (e.g, true)",
+        "value": "false",
+        "required": false
       
       },
       "AUTO_REPLY": {

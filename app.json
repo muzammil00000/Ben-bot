@@ -87,6 +87,11 @@
       "value": "false",
       "required": false
     },
+    "AUTO_UPDATE": {
+      "description": "Set true to Automatically downloads New Bot Update To Enable put true and to disable put false (e.g, true)",
+      "value": "false",
+      "required": false
+    },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages To Enable put true and to disable put false (e.g, true)",
       "value": "false",
