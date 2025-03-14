@@ -117,7 +117,7 @@
 ### <br>    ❖  FREE DEPLOY HOST.TALKDROVE BOT ❖
 
 <p align="center">
-<a href="https://host.talkdrove.com/share-bot/12"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
+<a href="https://host.talkdrove.com/share-bot/15"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
 <p/> 
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -146,7 +146,7 @@
 #### ```NOTHING PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/NOTHING-MD420/count.svg)
 
-### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐏𝐀𝐍𝐇𝐖𝐀𝐑-𝐌𝐃-𝐁𝐎𝐓`]
+### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 BEN-𝐁𝐎𝐓`]
 - 🪄 Pashto = ps
 - 🪄 Persian = fa
 - 🪄 English Global = en
