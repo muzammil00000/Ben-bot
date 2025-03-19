@@ -27,6 +27,7 @@
     "unzipper": "^0.12.3",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "api-dylux": "^1.8.5",
     "aptoide-scraper": "^1.0.1",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
