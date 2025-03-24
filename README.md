@@ -31,6 +31,8 @@
 `© NEW REPOSITORY BEN-BOT💛`
 
 --------------------------
+- **ALL MENU UPDATED 🚀**
+- **AI,SEARCH MENU 🚀**
 - **ANTILINK 🚀**
 - **AUTOUPDATE 🚀**
 - **ANTILINKREMOVE 🚀**

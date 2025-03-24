@@ -22,133 +22,13 @@
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
       "value": "public"
     },
-    "AUTHOR": {
-      "description": "Put Sticker Pack For Author_Name.",
-      "value": "NOTHING",
-      "required": false
-    },
-    "CAPTION_VIDEO": {
-      "description": "Enter text for captain for all video audio ..... bla bla bla",
-      "value": "> © 𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀 𝑵𝑶𝑻𝑯𝑰𝑵𝑮",
-      "required": false
-    },
     "ANTIBOT": {
       "description": "Set true to Automatically deletes bot commands sent by users and warns them To Enable put true and to disable put false (e.g, true)",
       "value": "false",
       "required": false
     },
-    "ANTIBOT_REMOVE": {
-      "description": "Set true to Deletes bot commands and instantly removes the user from the group To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTIBOT_WARN": {
-      "description": "Set true to Deletes bot commands, warns the user up to 3 times, and removes them after the 3rd warning To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
     "ANTILINK": {
       "description": "Set true to Deletes messages containing links and warns the user To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTILINKREMOVE": {
-      "description": "Set true to Deletes link messages and instantly removes the user To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTILINKWARN": {
-      "description": "Set true to Warns the user up to 3 times for sending links before removal To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTIBAD": {
-      "description": "Set true to Deletes messages containing bad words and warns the user To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTIBAD_REMOVE": {
-      "description": "Set true to Deletes messages containing bad words and instantly removes the user To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTIBAD_WARN": {
-      "description": "Set true to Warns the user up to 3 times for using bad words before removal To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "ANTI_FORWARD": {
-      "description": "Set true to anyone message you bot auto forward to inbox can you see and active another method in owner menu after depoly To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_DL": {
-      "description": "Set true to Automatically downloads media (Facebook, TikTok, Instagram, YouTube) from specific link To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_UPDATE": {
-      "description": "Set true to Automatically downloads New Bot Update To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_REACT": {
-      "description": "Set true to auto-react to messages To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_READ_MESSAGES": {
-      "description": "Set to true if you want the bot to read all messages To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_RECORD": {
-      "description": "Set to true if you want the bot to auto record allways To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_VIEW_STATUS": {
-      "description": "Auto-view saved WhatsApp statuses To Enable put true and to disable put false (e.g, true)",
-      "value": "true",
-      "required": false
-    },
-    "AVAILABLE": {
-      "description": "Set to true if you want the bot to auto always online To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "UNAVAILABLE": {
-      "description": "Set to true if you want the bot to auto don't online allways To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_TYPING": {
-      "description": "Set to true if you want the bot to auto typing allways To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_REPLY": {
-      "description": "Set to true if you want the bot to auto Reply for all message To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_REPLYPR": {
-      "description": "Set to true if you want the bot to auto Reply for private message To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "AUTO_REPLYGC": {
-      "description": "Set to true if you want the bot to auto Reply for group message To Enable put true and to disable put false (e.g, true)",
-      "value": "false",
-      "required": false
-    },
-    "WELCOME": {
-      "description": "Put 'false' or 'true' to enable or disable WELCOME.",
-      "value": "false",
-      "required": false
-    },
-    "CHATBOT": {
-      "description": "Set to true if you want your bot to autoreply messages.",
       "value": "false",
       "required": false
     }
