@@ -22,7 +22,7 @@
       },
       "PUBLIC": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (for public true for private false)",
-        "value":"public",
+        "value":"true",
         "required": true
         
       },

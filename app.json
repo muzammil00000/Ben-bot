@@ -20,7 +20,7 @@
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
-      "value": "public"
+      "value": "true"
     },
     "ANTIBOT": {
       "description": "Set true to Automatically deletes bot commands sent by users and warns them To Enable put true and to disable put false (e.g, true)",
